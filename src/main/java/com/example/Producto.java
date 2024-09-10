@@ -52,3 +52,4 @@ public class Producto {
         this.stock = stock; // Actualiza la cantidad de stock del producto
     }
 }
+//hola mundo.
